@@ -2,6 +2,6 @@
     <element db_object_id="4a151e22837512100ab9f5a6feaad356" label="mytabel" max_length="40" name="x_1565462_test2_mytabel" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Laber2" mandatory="true" max_length="40" name="laber2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Lable1" mandatory="true" max_length="40" name="lable1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Label3" mandatory="true" max_length="40" name="label3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Label3" mandatory="true" max_length="40" name="label3" type="string"/>
     </element>
 </database>
