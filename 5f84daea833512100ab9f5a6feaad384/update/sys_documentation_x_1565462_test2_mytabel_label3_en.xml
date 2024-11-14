@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="label3" label="Label3" language="en" table="x_1565462_test2_mytabel">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>label3</element>
+            <help/>
+            <hint/>
+            <label>Label3</label>
+            <language>en</language>
+            <name>x_1565462_test2_mytabel</name>
+            <plural>Label3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-14 05:44:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Label3</sys_name>
+            <sys_package display_value="test2" source="x_1565462_test2">5f84daea833512100ab9f5a6feaad384</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test2">5f84daea833512100ab9f5a6feaad384</sys_scope>
+            <sys_update_name>sys_documentation_x_1565462_test2_mytabel_label3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-14 05:44:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
